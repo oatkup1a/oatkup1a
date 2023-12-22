@@ -1,6 +1,4 @@
-### Hi there 👋
-
-**oatkup1a**
+### **oatkup1a / Antique**
 
 - 🔭 Studying Information and Communication Engineering
 - 🌱 Currently learning UX Design
