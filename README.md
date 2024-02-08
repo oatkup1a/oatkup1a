@@ -1,4 +1,4 @@
-<p align="center"># **Voraphol L.**</p>
+<h1 align="center">Voraphol L.</h1>
 
 - 🔭 Studying Information and Communication Engineering
 - 📫 Contact me @ voraphol12345@gmail.com
