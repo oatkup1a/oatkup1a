@@ -1,7 +1,7 @@
 <h1 align="center">Voraphol L.</h1>
 
 <p align="center">🔭 Studying Information and Communication Engineering</p>
-<p align="center"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></p>
+<p align="center"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=voraphol12345@gmail.com&logoColor=white" /></p>
 
 
 <p align="center">
