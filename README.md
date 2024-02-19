@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://discordapp.com/users/442284470138175489"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="badge"></a>
-  <img src="https://img.shields.io/badge/voraphol12345@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="badge">
+  <a href="mailto:voraphol12345@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="badge"></a>
 </p>
 
 <p align="center">
