@@ -2,6 +2,7 @@
 
 <p align="center">🔭 Studying Information and Communication Engineering</p>
 <p align="center">
+  <img src="https://img.shields.io/badge/oatkup1a-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="badge">
   <img src="https://img.shields.io/badge/voraphol12345@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="badge">
 </p>
 
