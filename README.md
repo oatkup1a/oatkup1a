@@ -6,7 +6,7 @@
   <a href="https://linkedin.com/in/voraphol" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-- 🔭 Studying Information and Communication Engineering in Thailand. よろしくお願いします!
+- 🔭 Passionate developer from Thailand. よろしくお願いします!
 - 📫For inquiries: **voraphol12345@gmail.com**
 
 <div align="center">
