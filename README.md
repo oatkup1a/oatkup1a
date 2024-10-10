@@ -48,5 +48,5 @@
 
 ## ✨ Credits
 - 💫GIFs: [Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub)
-- 🪪Badges: [Badge4-README](https://github.com/alexandresanlim/Badges4-README.md-Profile)
-- 📈Streak Stats: [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+- 🪪Badges: [Badges4-README](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+- 📈GitHub Readme Stats: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file)
