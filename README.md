@@ -13,4 +13,4 @@
 
 ## STATISTICS
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oatkup1a&theme=dark"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=oatkup1a&show_icons=true&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=oatkup1a&show_icons=true&hide_border=true&theme=dark" />
