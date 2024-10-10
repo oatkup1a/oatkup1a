@@ -1,6 +1,7 @@
-<h1 align="center">Hi, I'm Oat👋よろしくお願いします</h1>
+<h1 align="center">Hi there, I'm Oat👋</h1>
 
-<p align="center">🔭 Studying Information and Communication Engineering in Thailand. 📫For inquiries: **voraphol12345@gmail.com**</p>
+<p align="center">🔭 Studying Information and Communication Engineering in Thailand. よろしくお願いします! </p>
+- 📫For inquiries: **voraphol12345@gmail.com**
 
 <p align="center">
   <a href="https://discordapp.com/users/442284470138175489"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="badge"></a>
