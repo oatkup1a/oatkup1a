@@ -8,11 +8,6 @@
   <a href="https://linkedin.com/in/voraphol" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/oatkup1a"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=oatkup1a&hide_border=true&layout=compact&show_icons=true"></a>
-<p align="center">
-  <a href="https://github.com/oatkup1a"><img src="https://github-readme-stats.vercel.app/api?username=oatkup1a&show_icons=true&hide_border=true"></a>
-
 ## Programming Language
 
 
