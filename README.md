@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Oat👋</h1>
 
--🔭 Studying Information and Communication Engineering in Thailand. よろしくお願いします!
+- 🔭 Studying Information and Communication Engineering in Thailand. よろしくお願いします!
 - 📫For inquiries: **voraphol12345@gmail.com**
 
 <p align="center">
