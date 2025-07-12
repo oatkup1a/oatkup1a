@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://discordapp.com/users/442284470138175489"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="badge"></a>
-  <a href="mailto:voraphol12345@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="badge"></a>
+  <a href="mailto:voraphol.lert@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="badge"></a>
   <a href="https://linkedin.com/in/voraphol" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
